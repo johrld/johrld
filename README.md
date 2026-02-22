@@ -1,4 +1,4 @@
-## Hey, I'm Johannes
+# Hey, I'm Johannes
 
 > I build products that solve my own problems — then share them with the world. AI-obsessed entrepreneur with 30+ years of shipping digital ventures. Founded checkdomain. Currently building multiple ventures entirely with AI.
 
