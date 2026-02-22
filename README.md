@@ -10,7 +10,7 @@
 - 🌬️ **[wynd](https://github.com/johrld/wynd-app)** — Hyperlocal wind data with real-time precision. Powered by AI and a growing wind sports community.
 - 🚀 **[flowboost](https://www.flowboost.ai)** — AI system for brand-safe content. Intelligent agents from strategy to publishing.
 - 💰 **finhub** — WealthTech SaaS for high-net-worth individuals to analyze, optimize & share portfolios.
-- 🔧 **[claude-code-tabs](https://github.com/johrld/claude-code-tabs)** — VS Code/Cursor extension to open Claude Code as editor tabs with session history.
+- 🔧 **[claude-code-tabs](https://github.com/johrld/claude-code-tabs)** — VS Code/Cursor extension that opens Claude Code instances as terminal tabs — start new sessions or resume previous ones from history.
 
 ### What I'm Doing
 
