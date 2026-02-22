@@ -7,7 +7,7 @@
 ### Projects
 
 - 🧘 **[breathe](https://github.com/johrld/breathe-app)** — Mindfulness & ritual app for intentional living.
-- 🌬️ **[wynd](https://www.wynd.live)** — Hyperlocal wind data with real-time precision. Powered by AI and a growing wind sports community.
+- 🌬️ **[wynd](https://github.com/johrld/wynd-app)** — Hyperlocal wind data with real-time precision. Powered by AI and a growing wind sports community.
 - 🚀 **[flowboost](https://www.flowboost.ai)** — AI system for brand-safe content. Intelligent agents from strategy to publishing.
 - 💰 **finhub** — WealthTech SaaS for high-net-worth individuals to analyze, optimize & share portfolios.
 
